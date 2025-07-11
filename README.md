@@ -21,5 +21,25 @@ cd Emotion-analyzer
 
 
 💻 Step 3: Run the Frontend (React + Vite)
+1.Navigate to frontend folder
+2.Install frontend dependencies
+  npm install
+3.Start the development server
+  npm run dev
 
+🌐 Open your browser at http://localhost:5173
+
+
+🧪 Features : 
+✏️ User types a reflection
+🤖 FastAPI analyzes emotion (mock logic)
+📈 Returns emotion + confidence
+🔁 Styled with live reactivity and form validation
+
+
+📦 Technologies Used :
+Frontend: React, TypeScript, Vite
+Backend: FastAPI, Python
+HTTP: Axios
+Form Handling: react-hook-form
 
