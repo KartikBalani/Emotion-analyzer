@@ -1,0 +1,22 @@
+emotions = [
+  {"emotion": "happy", "confidence": "0.92"},
+  {"emotion": "sad", "confidence": "0.76"},
+  {"emotion": "angry", "confidence": "0.81"},
+  {"emotion": "surprised", "confidence": "0.88"},
+  {"emotion": "disgusted", "confidence": "0.73"},
+  {"emotion": "fearful", "confidence": "0.79"},
+  {"emotion": "neutral", "confidence": "0.90"},
+  {"emotion": "bored", "confidence": "0.65"},
+  {"emotion": "excited", "confidence": "0.94"},
+  {"emotion": "nervous", "confidence": "0.83"},
+  {"emotion": "calm", "confidence": "0.89"},
+  {"emotion": "confused", "confidence": "0.70"},
+  {"emotion": "hopeful", "confidence": "0.87"},
+  {"emotion": "ashamed", "confidence": "0.68"},
+  {"emotion": "embarrassed", "confidence": "0.74"},
+  {"emotion": "grateful", "confidence": "0.91"},
+  {"emotion": "lonely", "confidence": "0.66"},
+  {"emotion": "tired", "confidence": "0.77"},
+  {"emotion": "frustrated", "confidence": "0.82"},
+  {"emotion": "anxious", "confidence": "0.86"}
+]
